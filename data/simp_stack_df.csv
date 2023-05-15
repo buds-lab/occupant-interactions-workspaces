@@ -1,0 +1,19 @@
+﻿question_number,response,count
+4,Yes,478
+4,No,480
+3,Supervisor,29
+3,Coworker,235
+3,Household Member,93
+3,Friend,88
+3,Other,37
+2,Desk,201
+2,Meeting Room,33
+2,Hallway,35
+2,Canteen,49
+2,Work - remote,81
+2,Other,80
+1,Work - in person,192
+1,Work - remote,84
+1,Home,94
+1,Transportation,60
+1,Other,53
