@@ -1,7 +1,14 @@
 # occupant-interactions-workspaces
 Pilot data on identifying and contextualising occupant interactions within hybrid workspaces using the Cozie app on Apple smartwatches
 
+This study involved 4 levels of surveying: an onboarding survey, a micro-EMA taken hourly from 9 AM to 7 PM on the Cozie app, an end-of-day survey taken daily, and an exit interview. The data from the first three surveys and associated visualizations are contained within this GitHub.
 
+
+## Question Flow
+![Cozie Question Flow PNG](https://github.com/buds-lab/occupant-interactions-workspaces/assets/68923702/7578316b-1144-4d9b-bc07-23414954f2b9)
+
+
+## Data
 The folder `data` contains all the data from the field experiment.
 
 The field experiment involved:
@@ -20,6 +27,7 @@ The field experiment involved:
 `Thesh_End_of_Day.csv` - this file contains the end-of-day survey responses. This includes approximate interaction counts and evaluations of the entire day's interactions.
 
 
+##Visualizations
 The folder `visualizations` contains the python files used for creating visualizations. Additionally, it contains the SVG files created directly from the code as well as the image-edited PNG files.
 
 `Results_Figures.ipnyb` - this file contains the code to create two different stacked bar charts. The first compares the responses to the microsurvey question "Please categorize this interaction:" given by each participant. The second compares the total response breakdown from all the participants collectively for the objective microsurvey questions (using 'simp_stack_df.csv')
