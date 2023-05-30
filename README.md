@@ -5,9 +5,9 @@ Pilot data on identifying and contextualising occupant interactions within hybri
 The folder `data` contains all the data from the field experiment.
 
 The field experiment involved:
-9 participants working in the same office building in Singapore
-5 Male and 4 Female
-Ages ranging from 25 to 41
+* 9 participants working in the same office building in Singapore
+* 5 Male and 4 Female
+* Ages ranging from 25 to 41
 
 `Thesh_Onboarding.csv` - this file contains the onboarding survey responses. This includes demographic information, perceptions of office work and scheduling, and personality tests.
 
