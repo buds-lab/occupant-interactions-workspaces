@@ -35,7 +35,7 @@ The folder `visualizations` contains the python files used for creating visualiz
 
 `Results_Figures.ipnyb` - this file contains the code to create two different stacked bar charts (image files "Categorization Breakdown" and "Objective Questions Bar Chart"). The first compares the responses to the microsurvey question "Please categorize this interaction:" given by each participant. The second compares the total response breakdown from all the participants collectively for the objective microsurvey questions (using 'simp_stack_df.csv')
 
-![Categorization Breakdown](https://github.com/buds-lab/occupant-interactions-workspaces/assets/68923702/2533feeb-5a8f-4b34-964a-00f5aad4f20b)
+![Categorization Breakdown](https://github.com/buds-lab/occupant-interactions-workspaces/assets/68923702/e14234d0-94af-4c7f-b20a-6134f937458c)
 
 ![Objective Questions Bar Chart](https://github.com/buds-lab/occupant-interactions-workspaces/assets/68923702/5cbfb74e-dcaf-4b39-9a7c-52a9eb8e6688)
 
