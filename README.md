@@ -1,12 +1,15 @@
 # occupant-interactions-workspaces
 Pilot data on identifying and contextualising occupant interactions within hybrid workspaces using the Cozie app on Apple smartwatches
 
-This study involved 4 levels of surveying: an onboarding survey, a micro-EMA taken hourly from 9 AM to 7 PM on the Cozie app, an end-of-day survey taken daily, and an exit interview. The data from the first three surveys and associated visualizations are contained within this GitHub.
+This study involved 4 levels of surveying: an onboarding survey, a microsurvey taken hourly from 9 AM to 7 PM on the Cozie app, an end-of-day survey taken daily, and an exit interview. The data from the first three surveys and associated visualizations are contained within this GitHub.
 
 
-## Question Flow
+## Microsurvey Question Flow
+The question flow used in the Cozie app is given in the image below:
+
 ![Cozie Question Flow PNG](https://github.com/buds-lab/occupant-interactions-workspaces/assets/68923702/7578316b-1144-4d9b-bc07-23414954f2b9)
 
+The questions within the dotted line cover the subjective components of the interaction while the remaining questions cover the objective context of the interaction.
 
 ## Data
 The folder `data` contains all the data from the field experiment.
