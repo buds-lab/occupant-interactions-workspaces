@@ -33,11 +33,16 @@ The field experiment involved:
 ## Visualizations
 The folder `visualizations` contains the python files used for creating visualizations. Additionally, it contains the SVG files created directly from the code as well as the image-edited PNG files.
 
-`Results_Figures.ipnyb` - this file contains the code to create two different stacked bar charts (image files "Categorization Breakdown" and "Objective Questions Bar CHart"). The first compares the responses to the microsurvey question "Please categorize this interaction:" given by each participant. The second compares the total response breakdown from all the participants collectively for the objective microsurvey questions (using 'simp_stack_df.csv')
+`Results_Figures.ipnyb` - this file contains the code to create two different stacked bar charts (image files "Categorization Breakdown" and "Objective Questions Bar Chart"). The first compares the responses to the microsurvey question "Please categorize this interaction:" given by each participant. The second compares the total response breakdown from all the participants collectively for the objective microsurvey questions (using 'simp_stack_df.csv')
+
+![Categorization Breakdown](https://github.com/buds-lab/occupant-interactions-workspaces/assets/68923702/2533feeb-5a8f-4b34-964a-00f5aad4f20b)
+
+![Objective Questions Bar Chart](https://github.com/buds-lab/occupant-interactions-workspaces/assets/68923702/5cbfb74e-dcaf-4b39-9a7c-52a9eb8e6688)
 
 
 `Sankey_Figure.ipnyb` - this file contains the code to create a sankey plot for the flow of responses through the subjective microsurvey questions.
 
+![Subjective Question Sankey](https://github.com/buds-lab/occupant-interactions-workspaces/assets/68923702/6dbcb65a-5792-46fe-a332-e7226a3aa7d2)
 
 
 
